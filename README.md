@@ -22,7 +22,7 @@
 
 <h2> O que eu aprendi durante esse projeto </h2>
   Durante esse projeto da semana NLW da Rocketseat absorvi novos conhecimentos em javascript, ejs, css e, principalmente, node.js.
-  Aperfeiçoei o meu conhecimento na criação de rotas, controllers e banco de dados no back end. Além disso, aprendi novas maneiras de utlizar
+  Aperfeiçoei o meu conhecimento na criação de rotas, controllers e banco de dados no back end. Além disso, aprendi novas maneiras de utilizar
   o css.
 
 
